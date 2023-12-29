@@ -2,10 +2,7 @@
 
 This is your local, below the average, computer science student.
 
-:scroll: I am always happy to meet new people and make new friends! If you ever wanna chat, feel free to message me using discord! (dani_5612#5612)
-
-(Se habla español :wink:)
-
+:scroll: I am always happy to meet new people and make new friends! If you ever wanna chat, feel free to message me using discord! (kawaiibunnies)
 
  <!--
 **dani5612/dani5612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
